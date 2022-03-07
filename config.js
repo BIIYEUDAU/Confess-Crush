@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: "Nhiều lúc anh thấy thương em lắm…😓bởi vì chẳng thể bên cạnh em lúc em buồn🥺.Anh cũng cảm thấy mình chẳng có gì tốt cả, đến nỗi chưa lo được cho bản than mình nhưng lại muốn lo cho em rồi…🥺Anh thật sự may mắn khi có em. Nhưng mà đừng lo😙!! Dù trời có sập anh cũng gánh thay em😊. Hỏng ở đâu, anh sửa cùng em. Nếu buộc phải sai anh sai cùng em😚. Không dám chắc về kết quả, nhưng anh sẽ không để mất em….không bao giờ❤️!!!!",
+    introTitle: 'bae babi',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
